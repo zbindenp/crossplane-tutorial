@@ -66,7 +66,7 @@ fi
 # Control Plane Cluster #
 #########################
 
-kind delete cluster
+# kind delete cluster
 
 ##################
 # Commit Changes #
